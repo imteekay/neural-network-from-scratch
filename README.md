@@ -2,7 +2,7 @@
 
 # Neural Network from Scratch
 
-Building a neural network from scratch and testing on the heart attack dataset
+Building a neural network from scratch and testing on the heart attack dataset: [notebook](heart-attack-analysis-prediction.ipynb)
 
 ## License
 
